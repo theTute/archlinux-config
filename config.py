@@ -1,9 +1,10 @@
-#_______________ _________________________
-#\__    ___/    |   \__    ___/\_   _____/
-#  |    |  |    |   / |    |    |    __)_ 
-#  |    |  |    |  /  |    |    |        \
-#  |____|  |______/   |____|   /_______  /
-#                                      \/
+#
+#"Arguing that you don't care about the right to privacy because
+# you have nothing to hide is no different than saying you don't care
+# about free speech because you have nothing to say."
+# -Edward Snowden
+#
+#    Source:https://docs.qtile.org/en/latest/manual/config/default.html
 
 from libqtile import bar, layout, qtile, widget, hook
 from libqtile.config import Click, Drag, Group, Key, Match, Screen
@@ -112,17 +113,12 @@ for i in groups:
     )
 
 layouts = [
-    #layout.Columns(border_focus_stack=["#d75f5f", "#8f3d3d"], border_width=2),
     layout.Max(
         margin=10,
         border_width=2,
         border_focus=ColorFocus,
         border_normal=ColorNormal,
         ),
-    # Try more layouts by unleashing below layouts.
-    # layout.Stack(num_stacks=2),
-    # layout.Bsp(),
-    # layout.Matrix(),
     layout.MonadTall(
         border_width=2,
         border_focus=ColorFocus,
@@ -139,15 +135,10 @@ layouts = [
         border_normal=ColorNormal,
 
         ),
-    # layout.RatioTile(),
-    # layout.Tile(),
-    # layout.TreeTab(),
-    # layout.VerticalTile(),
-    # layout.Zoomy(),
 ]
 
 widget_defaults = dict(
-    font="noto sans",
+    font="sans",
     fontsize=14,
     padding=4,
 )
