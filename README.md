@@ -1,3 +1,3 @@
 My archlinux config
 Qtile => config.py
-Kitty => Kitty.py
+Kitty => Kitty.conf
