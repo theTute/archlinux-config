@@ -1,0 +1,48 @@
+{
+  "black": "#0e1725",
+  "red": "#e27878",
+  "green": "#78e2a0",
+  "yellow": "#e3c78a",
+  "blue": "#5294e2",
+  "magenta": "#b8a1e3",
+  "cyan": "#5cb7f5",
+  "white": "#cfd8e3",
+
+  "bright_black": "#2a3647",
+  "bright_red": "#e27878",
+  "bright_green": "#78e2a0",
+  "bright_yellow": "#e3c78a",
+  "bright_blue": "#5294e2",
+  "bright_magenta": "#b8a1e3",
+  "bright_cyan": "#5cb7f5",
+  "bright_white": "#ffffff",
+
+
+  "background": "#0e1725",
+  "surface": "#2a3647",
+  "foreground": "#cfd8e3",
+  "muted": "#7b8ba9",
+  
+  "primary": "#5294e2",
+  "primary_muted": "#7a9fcc",
+  "link": "#5cb7f5",
+  
+  
+  "error": "#e27878",
+  "success": "#78e2a0",
+  "warning": "#e2d478",
+  "info": "#78b4e2",
+  
+  "highlight": "#3a4762",
+  "accent": "#8ca9e2",
+  "selection": "#33425a",
+  "disabled": "#4f5c6d",
+
+  "border_width": 2,
+  "margin": 10,
+  "margin_thin": 5,
+  "rounded": 4,
+
+  "font": "UbuntuMono Nerd Font"
+}
+
