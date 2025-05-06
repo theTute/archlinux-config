@@ -2,7 +2,7 @@ import sys
 import json
 
 if len(sys.argv) < 2:
-    print("Uso: python generate_kitty_theme.py <archivo_json>")
+    print("python generate_Themes.py <theme.json>")
     sys.exit(1)
 
 json_path = sys.argv[1]
