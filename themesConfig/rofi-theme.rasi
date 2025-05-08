@@ -1,0 +1,31 @@
+* {
+  font:   "UbuntuMono Nerd Font";
+
+  bg0     : #0e1725;
+  bg1     : #2a3647;
+  bg2     : #7b8ba9;
+  bg3     : #5294e2;
+  fg0     : #cfd8e3;
+  fg1     : #7a9fcc;
+  fg2     : #7b8ba9;
+  fg3     : #5cb7f5;
+  red     : #e27878;
+  green   : #78e2a0;
+  yellow  : #e3c78a;
+  blue    : #5294e2;
+  magenta : #b8a1e3;
+  cyan    : #5cb7f5;
+
+  accent: @bg3;
+  urgent: @yellow;
+
+  background-color : transparent;
+  text-color       : @fg0;
+
+  margin  : 0;
+  padding : 0;
+  spacing : 0;
+
+  border: 2;
+  rounded: 8px;
+}
