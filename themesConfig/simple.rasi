@@ -1,5 +1,7 @@
 @import "rofi-theme.rasi"
 
+
+
 element-icon, element-text, scrollbar {
   cursor: pointer;
 }

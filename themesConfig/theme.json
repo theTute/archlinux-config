@@ -1,47 +1,46 @@
 {
-  "black": "#0e1725",
-  "red": "#e27878",
-  "green": "#78e2a0",
-  "yellow": "#e3c78a",
-  "blue": "#5294e2",
-  "magenta": "#b8a1e3",
-  "cyan": "#5cb7f5",
-  "white": "#cfd8e3",
+  "black": "#0b0610",
+  "red": "#e05b90",
+  "green": "#a1e2b4",
+  "yellow": "#e2c278",
+  "blue": "#9166e2",
+  "magenta": "#d66de2",
+  "cyan": "#a878e2",
+  "white": "#e8d9ef",
 
-  "bright_black": "#2a3647",
-  "bright_red": "#e27878",
-  "bright_green": "#78e2a0",
-  "bright_yellow": "#e3c78a",
-  "bright_blue": "#5294e2",
-  "bright_magenta": "#b8a1e3",
-  "bright_cyan": "#5cb7f5",
+  "bright_black": "#2a1c3f",
+  "bright_red": "#ff69a3",
+  "bright_green": "#b1f2c4",
+  "bright_yellow": "#f3d890",
+  "bright_blue": "#aa85f2",
+  "bright_magenta": "#f279f2",
+  "bright_cyan": "#c49cf2",
   "bright_white": "#ffffff",
 
+  "background": "#120718",
+  "surface": "#29152f",
+  "foreground": "#f2d8f2",
+  "muted": "#b28db8",
 
-  "background": "#0e1725",
-  "surface": "#2a3647",
-  "foreground": "#cfd8e3",
-  "muted": "#7b8ba9",
-  
-  "primary": "#5294e2",
-  "primary_muted": "#7a9fcc",
-  "link": "#5cb7f5",
-  
-  
-  "error": "#e27878",
-  "success": "#78e2a0",
-  "warning": "#e2d478",
-  "info": "#78b4e2",
-  
-  "highlight": "#3a4762",
-  "accent": "#8ca9e2",
-  "selection": "#33425a",
-  "disabled": "#4f5c6d",
+  "primary": "#d66de2",
+  "primary_muted": "#b48cc4",
+  "link": "#aa85f2",
+
+  "error": "#ff69a3",
+  "success": "#a1e2b4",
+  "warning": "#f3c878",
+  "info": "#aa85f2",
+
+  "highlight": "#3b1a48",
+  "accent": "#d29de2",
+  "selection": "#432850",
+  "disabled": "#5e4a65",
+
 
   "border_width": 2,
-  "margin": 10,
-  "margin_thin": 5,
-  "rounded": 4,
+  "margin": 8,
+  "margin_thin": 4,
+  "rounded": 8,
 
   "font": "UbuntuMono Nerd Font"
 }

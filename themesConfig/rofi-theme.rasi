@@ -1,31 +1,26 @@
 * {
-  font:   "UbuntuMono Nerd Font";
-
-  bg0     : #0e1725;
-  bg1     : #2a3647;
-  bg2     : #7b8ba9;
-  bg3     : #5294e2;
-  fg0     : #cfd8e3;
-  fg1     : #7a9fcc;
-  fg2     : #7b8ba9;
-  fg3     : #5cb7f5;
-  red     : #e27878;
-  green   : #78e2a0;
-  yellow  : #e3c78a;
-  blue    : #5294e2;
-  magenta : #b8a1e3;
-  cyan    : #5cb7f5;
-
-  accent: @bg3;
-  urgent: @yellow;
-
-  background-color : transparent;
-  text-color       : @fg0;
-
-  margin  : 0;
-  padding : 0;
-  spacing : 0;
-
-  border: 2;
-  rounded: 8px;
+font:   'UbuntuMono Nerd Font';
+bg0     :#120718;
+bg1     :#29152f;
+bg2     :#b28db8;
+bg3     :#d66de2;
+fg0     :#f2d8f2;
+fg1     :#b48cc4;
+fg2     :#b28db8;
+fg3     :#aa85f2;
+red     :#e05b90;
+green   :#a1e2b4;
+yellow  :#e2c278;
+blue    :#9166e2;
+magenta :#d66de2;
+cyan    :#a878e2;
+accent: @bg3;
+urgent: @yellow;
+background-color : transparent;
+text-color       : @fg0;
+margin  : 0;
+padding : 0;
+spacing : 0;
+border: 2;
+rounded: 8px;
 }
